@@ -9,7 +9,7 @@ setup(
     description = ("mjpeg client, server and manipulator"),
     keywords = "camstream ffserver",
     url = "https://github.com/royendgel",
-    packages=['mjpegtools'],
+    packages=['streamffserver'],
     classifiers=[
       'Operating System :: MacOS :: MacOS X',
       'Operating System :: Unix',
